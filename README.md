@@ -6,9 +6,10 @@ and suggests a random book out of top books on the list.
 <li>React</li>
 </ul>
 
+![Alt text](https://github.com/AnnaVolovik/recommend_me_a_book/blob/master/cover_screenshot.jpg?raw=true "Screengrab")
+
 **Setup**
 
 `python server/server.py`
-`cd static && npm run build`
 
-![Alt text](https://github.com/AnnaVolovik/recommend_me_a_book/blob/master/cover_screenshot.jpg?raw=true "Screengrab")
+`cd static && npm run build`
