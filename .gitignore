@@ -3,6 +3,7 @@ __pycache__/
 
 *.idea
 .idea/
+package-lock.json
 
 instance/
 
